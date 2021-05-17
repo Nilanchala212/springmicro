@@ -1,0 +1,5 @@
+package com.neosoft.client.controller;
+
+public class ShoppingController {
+
+}
